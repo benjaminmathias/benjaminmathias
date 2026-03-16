@@ -9,7 +9,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Room](https://img.shields.io/badge/Room-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-1565C0?style=flat-square&logo=google&logoColor=white)
-![Remote](https://img.shields.io/badge/Remote_friendly-0F6E56?style=flat-square)
 
 ---
 
