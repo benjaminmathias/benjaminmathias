@@ -1,6 +1,6 @@
 ## Hey, I'm Benjamin 👋
 
-Junior Android developer · Kotlin & Jetpack Compose  
+Android developer · Kotlin & Jetpack Compose  
 Nîmes, France &nbsp;·&nbsp; Remote open &nbsp;·&nbsp; French/English
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
