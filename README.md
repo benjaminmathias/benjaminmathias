@@ -3,8 +3,6 @@
 Android developer · Kotlin & Jetpack Compose  
 Nîmes, France &nbsp;·&nbsp; Remote open &nbsp;·&nbsp; French/English
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ben--mathias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-mathias)
-
 ### 🛠️ Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
