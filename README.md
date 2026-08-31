@@ -1,6 +1,8 @@
 ## Hey, I'm Benjamin 👋
 
 Android developer · Kotlin & Jetpack Compose  
+Building native Android apps with modern Android architecture and UI.
+
 Nîmes, France &nbsp;·&nbsp; Remote open &nbsp;·&nbsp; French/English
 
 ### 🛠️ Stack
@@ -16,27 +18,27 @@ Nîmes, France &nbsp;·&nbsp; Remote open &nbsp;·&nbsp; French/English
 ![Paging 3](https://img.shields.io/badge/Paging_3-7F52FF?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-### 📂 Projects
+### 📂 Featured projects
 
 **🎬 [MovieHub](https://github.com/benjaminmathias/MovieHub)**&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Featured](https://img.shields.io/badge/⭐_Featured-E6F1FB?style=flat-square&color=185FA5)
 
-Movie browser powered by the TMDB API. Offline-first with Room as SSOT, infinite scroll via Paging 3 + RemoteMediator, reactive debounced search, local favorites.
+Modern movie discovery app built with Kotlin and Jetpack Compose. Offline-first architecture backed by Room, Paging 3 + RemoteMediator synchronization, reactive search and persistent favorites.
 
-`Clean Archi` `MVVM` `Paging 3 · SSOT` `Hilt · Retrofit · Coil` `Coroutines · Flow` `Navigation 3`
+`Clean Architecture` `MVVM` `Compose · Material 3` `Room · Paging 3` `Hilt · Retrofit · Coil` `Coroutines · Flow` `Navigation 3`
 
 **🏠 [RealEstateManager](https://github.com/benjaminmathias/RealEstateManager)**&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-Property management app for real estate agents. Offline-first architecture, Google Maps integration, adaptive tablet/phone UI.
+Property management app for creating, editing, searching and tracking real-estate listings, with Room persistence, Google Maps integration and adaptive phone/tablet layouts.
 
-`MVVM` `Room` `Coroutines · Flow` `Google Maps SDK` `JUnit · Mockito`
+`Kotlin · MVVM` `Views · XML` `Room · LiveData` `Hilt` `Coroutines` `Google Maps SDK` `JUnit · Robolectric · Mockito · Espresso`
 
 **🍽️ [Go4Lunch](https://github.com/benjaminmathias/Go4Lunch)**&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-Social lunch app — Google Places search, real-time Firebase messaging, shared choices between colleagues, OAuth login.
+Collaborative lunch app for discovering nearby restaurants and coordinating choices between coworkers, with Google Places and Maps, Firebase authentication and real-time Firestore messaging.
 
-`MVVM` `Firebase · Firestore` `Retrofit · RxJava` `OAuth`
+`Java · MVVM` `Views · XML` `Google Places · Maps` `Firebase Auth · Firestore` `Retrofit · RxJava`
