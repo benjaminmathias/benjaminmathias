@@ -18,8 +18,6 @@ and reliable data layers — from API integration to offline-first experiences.
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-`MVVM` · `Clean Architecture` · `Coroutines & Flow` · `REST APIs` · `Offline-first` · `Testing`
-
 ---
 
 ### 🎬 MovieHub — Featured project
