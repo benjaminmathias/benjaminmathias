@@ -10,26 +10,11 @@ I build native Android applications with a focus on **modern UI, maintainable ar
 
 ### 🛠️ Core stack
 
-**Languages**  
-Kotlin · Java
+### 🛠️ Core stack
 
-**UI**  
-Jetpack Compose · Material 3 · Android Views · XML
-
-**Architecture**  
-MVVM · Repository pattern · Coroutines · Flow · LiveData
-
-**Data & networking**  
-Room · Retrofit · REST APIs · Paging 3 · RemoteMediator · Firebase
-
-**Dependency injection**  
-Hilt · Dagger
-
-**Testing**  
-JUnit · Mockito · Robolectric · Espresso
-
-**Android ecosystem**  
-Navigation · Google Maps SDK · Google Places · Coil
+**Kotlin · Java · Jetpack Compose · Material 3 · MVVM · Coroutines/Flow**  
+**Room · Retrofit · Paging 3 · RemoteMediator · Firebase · Hilt/Dagger**  
+**JUnit · Mockito · Robolectric · Espresso · Google Maps/Places · Coil**
 
 ---
 
