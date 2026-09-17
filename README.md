@@ -14,7 +14,7 @@ I build native Android applications with a focus on **modern UI, maintainable ar
 
 **Kotlin · Java · Jetpack Compose · Material 3 · MVVM · Coroutines/Flow**  
 **Room · Retrofit · Paging 3 · RemoteMediator · Firebase · Hilt/Dagger**  
-**JUnit · Mockito · Robolectric · Espresso · Google Maps/Places · Coil**
+**JUnit · Mockito · Google Maps/Places · Coil**
 
 ---
 
