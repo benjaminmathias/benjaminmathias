@@ -10,8 +10,6 @@ I build native Android applications with a focus on **modern UI, maintainable ar
 
 ### 🛠️ Core stack
 
-### 🛠️ Core stack
-
 **Kotlin · Java · Jetpack Compose · Material 3 · MVVM · Coroutines/Flow**  
 **Room · Retrofit · Paging 3 · RemoteMediator · Firebase · Hilt/Dagger**  
 **JUnit · Mockito · Google Maps/Places · Coil**
