@@ -2,9 +2,9 @@
 
 **Android Developer · Kotlin & Jetpack Compose**
 
-🟢 **Actively looking for Android opportunities, both permanent positions and freelance projects** — available now, remote or based around Nîmes / Montpellier / Avignon, France.
+🟢 Looking for Android opportunities — **permanent positions or freelance projects**.
 
-I build native Android applications with a focus on **modern UI, maintainable architecture, and reliable data layers** — from API integration to offline-first experiences.
+I build native Android apps with Kotlin, mostly using **Jetpack Compose, MVVM, Room and Retrofit**.
 
 📍 Nîmes, France · 🌍 Remote open · 🇫🇷 French (native) · 🇬🇧 English
 
@@ -20,32 +20,30 @@ I build native Android applications with a focus on **modern UI, maintainable ar
 
 #### 🎬 [MovieHub](https://github.com/benjaminmathias/MovieHub)
 
-A modern movie discovery app built with **Kotlin and Jetpack Compose**, powered by the TMDB API.
+Movie discovery app built with **Kotlin and Jetpack Compose** using the TMDB API.
 
-The app follows an **offline-first approach**, with **Room as the local source of truth** and data synchronization handled through **Paging 3 + RemoteMediator**.
+Uses Room as the local source of truth, with **Paging 3 + RemoteMediator** for fetching and caching movie data. Includes search, movie details, recommendations and favorites.
 
-It features multiple movie categories, dedicated search, movie details, recommendations, and persistent favorites.
-
-`Kotlin` `Jetpack Compose` `Material 3` `MVVM` `Room` `Paging 3` `RemoteMediator` `Hilt` `Retrofit` `Coroutines · Flow`
+`Kotlin` `Jetpack Compose` `Material 3` `MVVM` `Room` `Paging 3` `RemoteMediator` `Hilt` `Retrofit`
 
 #### 🏠 [RealEstateManager](https://github.com/benjaminmathias/RealEstateManager)
 
-A property management app built with Kotlin and the traditional Android View system.
+Property management app built with **Kotlin and Android Views**.
 
-Features local persistence, property creation and editing, search, Google Maps integration, and adaptive phone/tablet layouts.
+Includes local persistence, property creation/editing, search, Google Maps and layouts adapted for phones and tablets.
 
-`Kotlin · MVVM` `Views · XML` `Room · LiveData` `Hilt` `Coroutines` `Google Maps` `JUnit · Robolectric · Mockito · Espresso`
+`Kotlin` `MVVM` `Views · XML` `Room` `Hilt` `Coroutines` `Google Maps` `JUnit · Robolectric · Mockito`
 
 #### 🍽️ [Go4Lunch](https://github.com/benjaminmathias/Go4Lunch)
 
-A collaborative restaurant discovery app built in Java for finding nearby restaurants and coordinating choices between coworkers.
+Restaurant discovery app built in **Java**. Users can find nearby restaurants, see where coworkers are eating and chat with them.
 
-`Java · MVVM` `Views · XML` `Google Places · Maps` `Firebase Auth · Firestore` `Retrofit · RxJava`
+`Java` `MVVM` `Views · XML` `Google Places · Maps` `Firebase Auth · Firestore` `Retrofit · RxJava`
 
 ---
 
 ### 🤝 Let's connect
 
-Open to **Android development opportunities**, both permanent positions and freelance projects.
+I'm currently available for **Android development opportunities**, both permanent and freelance.
 
 📫 [LinkedIn](https://www.linkedin.com/in/ben-mathias/)
