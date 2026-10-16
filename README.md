@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Benjamin 👋</h1>
 
 <p align="center">
-  <strong>Android Developer</strong> · <strong>Kotlin</strong> · <strong>Jetpack Compose</strong> · <strong>Java</strong><br>
+  <strong>Android Developer</strong> · <strong>Kotlin</strong> · <strong>Jetpack Compose</strong> · <strong>Java</strong>
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@
 | 🏗️ **Architecture** | **MVVM** · **Clean Architecture** · Coroutines / Flow · Hilt |
 | 💾 **Data** | **Room** · **Retrofit** · Paging 3 · RemoteMediator · Firebase (Auth, Firestore) |
 | 🧪 **Tests** | JUnit · Mockito · Robolectric · Espresso |
+| 🤖 **AI workflow** | **Codex** agents · AGENTS.md conventions · AI-assisted implementation, QA and review |
 
 ---
 
