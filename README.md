@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Android Developer</strong> · <strong>Kotlin</strong> · <strong>Jetpack Compose</strong> · <strong>Java</strong><br>
-  <em>Native apps, built with clean architecture.</em>
 </p>
 
 <p align="center">
